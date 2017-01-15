@@ -801,9 +801,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53016239"
-     inkscape:cx="528.95354"
-     inkscape:cy="51.948007"
+     inkscape:zoom="0.74976285"
+     inkscape:cx="63.072909"
+     inkscape:cy="736.4614"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-grids="true"
@@ -2249,13 +2249,13 @@ ZLpKathDjTMAAAAASUVORK5CYII=
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.30841446px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#d63f09;fill-opacity:1;stroke:none;stroke-width:1.53634477;stroke-opacity:1"
        x="-958.81537"
-       y="-330.06238"
+       y="-350.99854"
        id="text3013-1"
        transform="scale(-0.80524115,-1.241864)"><tspan
          sodipodi:role="line"
          id="tspan3015-5"
          x="-958.81537"
-         y="-330.06238"
+         y="-350.99854"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:57.6129303px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d63f09;fill-opacity:1;stroke:none;stroke-width:1.53634477;stroke-opacity:1">Año 2017</tspan></text>
     <image
        y="-404.91119"
@@ -18966,7 +18966,7 @@ SUVORK5CYII=
       </g>
     </g>
     <image
-       y="-448.5675"
+       y="-478.5675"
        x="-544.15802"
        id="image28465"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCwAAAHMCAYAAAAebjm1AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
@@ -19736,5 +19736,89 @@ AADnsGABAAAAAACcw4IFAAAAAABwzv8D5JdoSQTlZ3YAAAAASUVORK5CYII=
          x="-224.85947"
          y="-159.47295"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.06666756px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#77216f;fill-opacity:1;stroke-width:1.06666672">http://www.ubuntu.org.ve</tspan></text>
+    <g
+       id="g28531"
+       transform="matrix(-0.69680778,0,0,-0.77769054,598.04951,843.95828)">
+      <text
+         transform="scale(1.1246388,0.88917438)"
+         id="text28488"
+         y="939.5611"
+         x="610.77228"
+         style="font-style:normal;font-weight:normal;font-size:26.89125061px;line-height:16.80703163px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67228127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.75650024px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.67228127px"
+           y="939.5611"
+           x="610.77228"
+           id="tspan28486"
+           sodipodi:role="line">Días Feriados</tspan></text>
+      <text
+         transform="scale(1.1246388,0.88917438)"
+         id="text28488-4"
+         y="953.18988"
+         x="609.41449"
+         style="font-style:normal;font-weight:normal;font-size:26.89125061px;line-height:16.80703163px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67228127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.75650024px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.67228127px"
+           y="953.18988"
+           x="609.41449"
+           id="tspan28486-0"
+           sodipodi:role="line">Días Bancarios</tspan></text>
+      <rect
+         y="827.57965"
+         x="672.13068"
+         height="8.9595194"
+         width="12.260394"
+         id="rect28508"
+         style="opacity:1;fill:#ff3333;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         y="839.61853"
+         x="671.91754"
+         height="8.9595194"
+         width="12.260394"
+         id="rect28508-0"
+         style="opacity:1;fill:#1674ff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g28531-0"
+       transform="matrix(0.69680778,0,0,0.77769054,217.07791,192.66576)">
+      <text
+         transform="scale(1.1246388,0.88917438)"
+         id="text28488-7"
+         y="939.5611"
+         x="610.77228"
+         style="font-style:normal;font-weight:normal;font-size:26.89125061px;line-height:16.80703163px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67228127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.75650024px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.67228127px"
+           y="939.5611"
+           x="610.77228"
+           id="tspan28486-4"
+           sodipodi:role="line">Días Feriados</tspan></text>
+      <text
+         transform="scale(1.1246388,0.88917438)"
+         id="text28488-4-7"
+         y="953.18988"
+         x="609.41449"
+         style="font-style:normal;font-weight:normal;font-size:26.89125061px;line-height:16.80703163px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67228127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.75650024px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.67228127px"
+           y="953.18988"
+           x="609.41449"
+           id="tspan28486-0-3"
+           sodipodi:role="line">Días Bancarios</tspan></text>
+      <rect
+         y="827.57965"
+         x="672.13068"
+         height="8.9595194"
+         width="12.260394"
+         id="rect28508-01"
+         style="opacity:1;fill:#ff3333;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         y="839.61853"
+         x="671.91754"
+         height="8.9595194"
+         width="12.260394"
+         id="rect28508-0-6"
+         style="opacity:1;fill:#1674ff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
